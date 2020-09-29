@@ -80,8 +80,8 @@ int count_holes_and_erase_glyph (int i, int j){
 
 int main(int argc, char const* argv[])
 {
-    // freopen("../in.txt", "r", stdin);
-    // freopen("../out.txt", "w", stdout);
+    // freopen("../../../in.txt", "r", stdin);
+    // freopen("../../../out.txt", "w", stdout);
 
     vector<char> ans;
     char hex_char, glyph_char;
