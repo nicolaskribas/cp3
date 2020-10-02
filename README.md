@@ -328,9 +328,9 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### Bipartite Graph Check
 
-- [ ] 10004 - Bicoloring
-- [ ] 11080 - Place the Guards
-- [ ] 11396 - Claw Decomposition
+- [X] 10004 - Bicoloring
+- [X] 11080 - Place the Guards
+- [X] 11396 - Claw Decomposition
 
 #### Finding Articulation Points/Bridges
 
