@@ -3,21 +3,21 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 ## Chapter 1: Introduction
 
-### The Easy Problems
+### Getting Started: The Easy Problems
 
-#### Super Easy
+#### Super Easy Problems in the UVa Online Judge (solvable in under 7 minutes)
 
 - [ ] 11172 - Relational Operators
 - [ ] 11498 - Division of Nlogonia
 - [ ] 11727 - Cost Cutting
 
-#### Easy
+#### Easy (just ‘a bit’ harder than the ‘Super Easy’ ones)
 
 - [ ] 10114 - Loansome Car Buyer
 - [ ] 11559 - Event Planning
 - [ ] 11799 - Horror Dash
 
-#### Medium
+#### Medium: One Notch Above Easy (may take 15-30 minutes, but not too hard)
 
 - [ ] 00573 - The Snail
 - [ ] 10141 - Request for Proposal
@@ -37,7 +37,7 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 - [ ] 00696 - How Many Knights
 - [ ] 10284 - Chessboard in FEN
 
-####  Game (Others), Easier
+#### Game (Others), Easier
 
 - [ ] 00489 - Hangman Judge
 - [ ] 10189 - Minesweeper
@@ -67,7 +67,7 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 - [ ] 00637 - Booklet Printing
 - [ ] 10812 - Beat the Spread
 
-#### Interesting Real Life Problems, Harder
+#### Interesting Real Life Problems, Harder (more tedious)
 
 - [ ] 00403 - Postscript
 - [ ] 00608 - Counterfeit Dollar
@@ -89,7 +89,7 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 ### Linear DS with Built-In Libraries
 
-#### 1D Array Manipulation
+#### 1D Array Manipulation, e.g. array, C++ STL vector (or Java Vector/ArrayList)
 
 - [ ] 10038 - Jolly Jumpers
 - [ ] 11340 - Newspaper
@@ -101,29 +101,29 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 - [ ] 10920 - Spiral Tap
 - [ ] 11581 - Grid Successors
 
-#### C++ STL algorithm
+#### C++ STL algorithm (Java Collections)
 
 - [ ] 00146 - ID Codes
 - [ ] 10107 - What is the Median?
 - [ ] 10258 - Contest Scoreboard
 
-#### Bit Manipulation
+#### Bit Manipulation (both C++ STL bitset (Java BitSet) and bitmask)
 
 - [ ] 10264 - The Most Potent Corner
 - [ ] 11926 - Multitasking
 - [ ] 11933 - Splitting Numbers
 
-#### C++ STL list
+#### C++ STL list (Java LinkedList)
 
 - [ ] 11988 - 11988 - Broken Keyboard ...
 
-#### C++ STL stack
+#### C++ STL stack (Java Stack)
 
 - [ ] 00514 - Rails
 - [ ] 00732 - Anagram by Stack
 - [ ] 01062 - Containers
 
-#### C++ STL queue and deque
+#### C++ STL queue and deque (Java Queue and Deque)
 
 - [ ] 10172 - The Lonesome Cargo ...
 - [ ] 10901 - Ferry Loading III
@@ -131,19 +131,19 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 ### Non-Linear DS with Built-In Libraries
 
-#### C++ STL map
+#### C++ STL map (and Java TreeMap)
 
 - [ ] 10226 - Hardwood Species
 - [ ] 11286 - Conformity
 - [ ] 11572 - Unique Snowflakes
 
-#### C++ STL set
+#### C++ STL set (Java TreeSet)
 
 - [ ] 00978 - Lemmings Battle
 - [ ] 11136 - Hoax or what
 - [ ] 11849 - CD
 
-#### C++ STL priority queue
+#### C++ STL priority queue (Java PriorityQueue)
 
 - [ ] 01203 - Argus
 - [ ] 10954 - Add All
@@ -193,7 +193,6 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### Iterative (Three-or-More Nested Loops, Harder)
 
-
 - [ ] 10660 - Citizen attention ...
 - [ ] 11236 - Grocery Store
 - [ ] 11565 - Simple Equations
@@ -222,7 +221,7 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 - [ ] 00416 - LED Test
 - [ ] 01262 - Password
 
-#### Divide and Conquer
+### Divide and Conquer
 
 #### Binary Search
 
@@ -334,7 +333,7 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### Finding Articulation Points/Bridges
 
-- [ ] 00315 - Network
+- [X] 00315 - Network
 - [ ] 00796 - Critical Links
 - [ ] 10765 - Doves and Bombs
 
@@ -343,3 +342,115 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 - [ ] 00247 - Calling Circles
 - [ ] 11504 - Dominos
 - [ ] 11838 - Come and Go
+
+### Minimum Spanning Tree
+
+#### Standard
+
+- [ ] 11228 - Transportation System
+- [ ] 11631 - Dark Roads
+- [ ] 11747 - Heavy Cycle Edges
+
+#### Variants
+
+- [ ] 10048 - Audiophobia
+- [ ] 10369 - Arctic Networks
+- [ ] 10600 - ACM Contest and ...
+
+### Single-Source Shortest Paths
+
+#### On Unweighted Graph: BFS, Easier
+
+- [ ] 00429 - Word Transformation
+- [ ] 00924 - Spreading the News
+- [ ] 10653 - Bombs; NO they ...
+
+#### On Unweighted Graph: BFS, Harder
+
+- [ ] 00314 - Robot
+- [ ] 11101 - Mall Mania
+- [ ] 12160 - Unlock the Lock
+
+#### On Weighted Graph: Dijkstra’s, Easier
+
+- [ ] 00929 - Number Maze
+- [ ] 01112 - Mice and Maze
+- [ ] 10986 - Sending email
+
+#### On Weighted Graph: Dijkstra’s, Harder
+
+- [ ] 10801 - Lift Hopping
+- [ ] 11492 - Babel
+- [ ] 12047 - Highest Paid Toll
+
+#### SSSP on Graph with Negative Weight Cycle (Bellman Ford’s)
+
+- [ ] 00558 - Wormholes
+- [ ] 10449 - Traffic
+- [ ] 10557 - XYZZY
+
+### All-Pairs Shortest Paths
+
+#### Floyd Warshall’s Standard Application (for APSP or SSSP on small graph)
+
+- [ ] 00821 - Page Hopping
+- [ ] 10171 - Meeting Prof. Miguel
+- [ ] 11463 - Commandos
+
+#### Variants
+
+- [ ] 00104 - Arbitrage
+- [ ] 00334 - Identifying Concurrent ...
+- [ ] 01056 - Degrees of Separation
+
+### Network Flow
+
+#### Standard Max Flow Problem (Edmonds Karp’s)
+
+- [ ] 00259 - Software Allocation
+- [ ] 00820 - Internet Bandwidth
+- [ ] 11167 - Monkeys in the Emei ...
+
+#### Variants
+
+- [ ] 11380 - Down Went The Titanic
+- [ ] 11506 - Angry Programmer
+- [ ] 12125 - March of the Penguins
+
+### Special Graphs
+
+#### Single-Source Shortest/Longest Paths on DAG
+
+- [ ] 00452 - Project Scheduling
+- [ ] 10285 - Longest Run ...
+- [ ] 10350 - Liftless Eme
+
+#### Counting Paths in DAG
+
+- [ ] 00988 - Many paths, one ...
+- [ ] 10401 - Injured Queen Problem
+- [ ] 11957 - Checkers
+
+#### Converting General Graph to DAG
+
+- [ ] 00907 - Winterim Backpack...
+- [ ] 10913 - Walking ...
+- [ ] 11487 - Gathering Food
+
+#### Tree
+
+- [ ] 10459 - The Tree Root
+- [ ] 10805 - Cockroach Escape ...
+- [ ] 11695 - Flight Planning
+
+#### Eulerian Graph
+
+- [ ] 10054 - The Necklace
+- [ ] 10203 - Snow Clearing
+- [ ] 10596 - Morning Walk
+
+#### Bipartite Graph
+
+- [ ] 10349 - Antenna Placement
+- [ ] 11138 - Nuts and Bolts
+- [ ] 11159 - Factors and Multiples
