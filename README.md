@@ -334,14 +334,14 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 #### Finding Articulation Points/Bridges
 
 - [X] 00315 - Network
-- [ ] 00796 - Critical Links
-- [ ] 10765 - Doves and Bombs
+- [X] 00796 - Critical Links
+- [X] 10765 - Doves and Bombs
 
 #### Finding Strongly Connected Components
 
-- [ ] 00247 - Calling Circles
-- [ ] 11504 - Dominos
-- [ ] 11838 - Come and Go
+- [X] 00247 - Calling Circles
+- [X] 11504 - Dominos
+- [X] 11838 - Come and Go
 
 ### Minimum Spanning Tree
 
