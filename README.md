@@ -347,15 +347,15 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### Standard
 
-- [ ] 11228 - Transportation System
-- [ ] 11631 - Dark Roads
-- [ ] 11747 - Heavy Cycle Edges
+- [X] 11228 - Transportation System
+- [X] 11631 - Dark Roads
+- [X] 11747 - Heavy Cycle Edges
 
 #### Variants
 
 - [ ] 10048 - Audiophobia
 - [ ] 10369 - Arctic Networks
-- [ ] 10600 - ACM Contest and ...
+- [ ] 10600 - ACM Contest and Blackout
 
 ### Single-Source Shortest Paths
 
