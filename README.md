@@ -353,9 +353,9 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### Variants
 
-- [ ] 10048 - Audiophobia
-- [ ] 10369 - Arctic Networks
-- [ ] 10600 - ACM Contest and Blackout
+- [X] 10048 - Audiophobia
+- [X] 10369 - Arctic Networks
+- [X] 10600 - ACM Contest and Blackout
 
 ### Single-Source Shortest Paths
 
