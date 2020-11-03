@@ -34,7 +34,7 @@ public:
     }
 };
 
-vector<pair<int, int>> nodes_scoordinates;
+vector<pair<int, int>> nodes_coordinates;
 vector<pair<double, pair<int, int>>> edges; //<weight, <node u, node v>>
 
 double distance(pair<int, int> a, pair<int, int> b)
@@ -56,13 +56,13 @@ int main(int argc, char const* argv[])
 
         int s, p;
         scanf("%d %d", &s, &p);
-        nodes_scoordinates.resize(p);
+        nodes_coordinates.resize(p);
         for (int i = 0; i < p; i++) {
             int x, y;
             scanf("%d %d", &x, &y);
-            nodes_scoordinates[i] = make_pair(x, y);
+            nodes_coordinates[i] = make_pair(x, y);
             for (int j = 0; j < i; j++) {
-                double dist = distance(nodes_scoordinates[i], nodes_scoordinates[j]);
+                double dist = distance(nodes_coordinates[i], nodes_coordinates[j]);
                 edges.push_back(make_pair(dist, make_pair(i, j)));
             }
         }
