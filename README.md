@@ -361,9 +361,9 @@ My solutions to the "must try" problems proposed in the book Competitive Program
 
 #### On Unweighted Graph: BFS, Easier
 
-- [ ] 00429 - Word Transformation
-- [ ] 00924 - Spreading the News
-- [ ] 10653 - Bombs; NO they ...
+- [X] 00429 - Word Transformation
+- [X] 00924 - Spreading the News
+- [X] 10653 - Bombs! NO they are Mines!!
 
 #### On Unweighted Graph: BFS, Harder
 
