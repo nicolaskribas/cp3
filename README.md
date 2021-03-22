@@ -1,4 +1,4 @@
-# competitive-programming-3
+# cp3
 My solutions to the "must try" problems proposed in the book Competitive Programming 3
 
 ## Chapter 1: Introduction
